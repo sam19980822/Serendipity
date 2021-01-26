@@ -7,7 +7,7 @@
 
 ## Structure
 
-.
+.  
 ├── data.sqlite  
 ├── db.py  
 ├── Home  
