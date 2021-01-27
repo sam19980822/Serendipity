@@ -1,6 +1,12 @@
+article{
+  font-family: sans-serif;
+  background: #faebd7;
+  font-size: 20px;
+}
+
 html {
     font-family: sans-serif;
-    background: #eee;
+    background: white;
     padding: 1rem;
   }
   
@@ -125,10 +131,12 @@ html {
   }
   
   input.danger {
-    color: #cc2f2e;
+    font-style: italic;
+    color: red;
   }
   
   input[type=submit] {
     align-self: start;
     min-width: 10em;
+    padding: 0.3rem;
   }
